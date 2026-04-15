@@ -1,1 +1,1 @@
-def login(): return 'A version'
+def login(): return 'B version'
